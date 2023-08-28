@@ -74,7 +74,7 @@
 | <a href=https://github.com/verydirtyhands/flat.git>Исследование объявлений о продаже квартир </a>   | таблица        | анализ данных             | Глубокий анализ   |
 | <a href=https://github.com/verydirtyhands/locations_for_wells.git>Выбор локации для скважины </a>                  | таблица        | комбинаторная оптимизация |  Использование XGBRegressor ,тестирование и анализ 10 различных алгоритмов машинного обучения , bootstrap , доверительный интервал  |
 | <a href=https://github.com/verydirtyhands/customer_outflow.git>Прогнозирование оттока клиентов  </a>           | таблица        | бинарная классификация    | тестирование и анализ LinearRegression, DecisionTreeRegressor, GaussianProcessRegressor , построение ROC-кривой  |
-| <a href=https://github.com/verydirtyhands/toxic_comments.git>Классификаиция токсичных комментариев </a>      | текст          | бинарная классификация    |    |
+| <a href=https://github.com/verydirtyhands/toxic_comments.git>Классификаиция токсичных комментариев </a>      | текст          | бинарная классификация    | Использование spacy ,textblob ,nltk тестирование и анализ catboost и Keras |
 | Защита персональных данных клиентов         | таблица        | классификация             |    |
 | Рекомендация тарифов                        | таблица        | бинарная классификация    |    |
 
