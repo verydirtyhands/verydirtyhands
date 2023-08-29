@@ -30,7 +30,7 @@
 
 ---
 
-### 💻 Технологии и инструменты:
+### 🛠️ Технологии и инструменты:
 
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -43,7 +43,7 @@
 
 ---
 
- ### 💻 Пройденные курсы:
+ ### 🎓 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 |:----------------------------------------------------------------| :---------------: |
@@ -52,7 +52,7 @@
 
 --- 
 
- ### 💻 Соревнования:
+ ### 🚀 Соревнования:
 
 | Соревнования                              | Дата              | тип данных | задача                 | специфика |
 |:------------------------------------------| :---------------: | :--------: | :---------------------:| :---------: |
@@ -63,7 +63,7 @@
 
 --- 
 
- ### 💻 Тестовые задания:
+ ### ✍️ Тестовые задания:
 
 | Тестовые задания                                                                                      | тип данных     | задача         |
 | :-----------------------------------------------------------------------------------------------------| :------------: | :------------: |
