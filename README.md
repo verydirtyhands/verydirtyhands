@@ -68,14 +68,14 @@
 | Проекты                                     | тип данных     | задача                    | особенности |
 | :-------------------------------------------| :------------: | :-----------------------: | :---------: |
 | <a href=https://github.com/verydirtyhands/the_cost_of_cars.git>Определение стоимости автомобилей </a>  | таблица | регрессия | использование Keras ,Catboost ,Глубокая предобработка и интерпретация при помощи Shap |
-| <a href=https://github.com/verydirtyhands/taxi_counter.git>Прогнозирование заказов такси </a>              | временнной ряд | регрессия                 | Использование рекуррентной нейронной сети (LSTM) ,Prothet ,Plotly ,Sktime            |
+| <a href=https://github.com/verydirtyhands/taxi_counter.git>Прогнозирование заказов такси         </a>  | временнной ряд | регрессия                 | Использование рекуррентной нейронной сети (LSTM) ,Prothet ,Plotly ,Sktime            |
 | <a href=https://github.com/verydirtyhands/gold_project.git>Прогнозирование коэффициента восстановления золота</a>| таблица        | регрессия                 | Использование XGBRegressor ,построение простого Pipeline ,тестирование и анализ 15 различных алгоритмов машинного обучения|
-| <a href=https://github.com/verydirtyhands/gaming_market.git>Исследование игрового рынка </a>               | таблица        | анализ данных             | Глубокий анализ , проверка гипотез |
-| <a href=https://github.com/verydirtyhands/flat.git>Исследование объявлений о продаже квартир </a>   | таблица        | анализ данных             | Глубокий анализ   |
-| <a href=https://github.com/verydirtyhands/locations_for_wells.git>Выбор локации для скважины </a>                  | таблица        | комбинаторная оптимизация |  Использование XGBRegressor ,тестирование и анализ 10 различных алгоритмов машинного обучения , bootstrap , доверительный интервал  |
-| <a href=https://github.com/verydirtyhands/customer_outflow.git>Прогнозирование оттока клиентов  </a>           | таблица        | бинарная классификация    | тестирование и анализ LinearRegression, DecisionTreeRegressor, GaussianProcessRegressor , построение ROC-кривой  |
-| <a href=https://github.com/verydirtyhands/toxic_comments.git>Классификаиция токсичных комментариев </a>      | текст          | бинарная классификация    | Использование spacy ,textblob ,nltk тестирование и анализ catboost и Keras |
-| <a href=https://github.com/verydirtyhands/data_protection.git>Защита персональных данных клиентов         | таблица        | классификация             | Гомоморфное шифрование ,написание класса Coder ,Использование TweedieRegressor , deep_translator, scipy|
-| Рекомендация тарифов                        | таблица        | бинарная классификация    |    |
+| <a href=https://github.com/verydirtyhands/gaming_market.git>Исследование игрового рынка               </a>  | таблица        | анализ данных             | Глубокий анализ , проверка гипотез |
+| <a href=https://github.com/verydirtyhands/flat.git>Исследование объявлений о продаже квартир          </a>  | таблица        | анализ данных             | Глубокий анализ   |
+| <a href=https://github.com/verydirtyhands/locations_for_wells.git>Выбор локации для скважины          </a>  | таблица        | комбинаторная оптимизация |  Использование XGBRegressor ,тестирование и анализ 10 различных алгоритмов машинного обучения , bootstrap , доверительный интервал  |
+| <a href=https://github.com/verydirtyhands/customer_outflow.git>Прогнозирование оттока клиентов        </a>  | таблица        | бинарная классификация    | тестирование и анализ LinearRegression, DecisionTreeRegressor, GaussianProcessRegressor , построение ROC-кривой  |
+| <a href=https://github.com/verydirtyhands/toxic_comments.git>Классификаиция токсичных комментариев    </a>  | текст          | бинарная классификация    | Использование spacy ,textblob ,nltk тестирование и анализ catboost и Keras |
+| <a href=https://github.com/verydirtyhands/data_protection.git>Защита персональных данных клиентов     </a>  | таблица        | классификация             | Гомоморфное шифрование ,написание класса Coder ,Использование TweedieRegressor , deep_translator, scipy|
+| <a href=https://github.com/verydirtyhands/recommendation_of_tariffs.git>Рекомендация тарифов          </a>  | таблица        | бинарная классификация    |    |
 
 --- 
