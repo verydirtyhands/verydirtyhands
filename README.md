@@ -76,6 +76,6 @@
 | <a href=https://github.com/verydirtyhands/customer_outflow.git>Прогнозирование оттока клиентов        </a>  | таблица        | бинарная классификация    | тестирование и анализ LinearRegression, DecisionTreeRegressor, GaussianProcessRegressor , построение ROC-кривой  |
 | <a href=https://github.com/verydirtyhands/toxic_comments.git>Классификаиция токсичных комментариев    </a>  | текст          | бинарная классификация    | Использование spacy ,textblob ,nltk тестирование и анализ catboost и Keras |
 | <a href=https://github.com/verydirtyhands/data_protection.git>Защита персональных данных клиентов     </a>  | таблица        | классификация             | Гомоморфное шифрование ,написание класса Coder ,Использование TweedieRegressor , deep_translator, scipy|
-| <a href=https://github.com/verydirtyhands/recommendation_of_tariffs.git>Рекомендация тарифов          </a>  | таблица        | бинарная классификация    |    |
+| <a href=https://github.com/verydirtyhands/recommendation_of_tariffs.git>Рекомендация тарифов          </a>  | таблица        | бинарная классификация    | Проверка на адекватность модели , Использование RandomForestClassifier , LogisticRegression , GridSearchCV |
 
 --- 
